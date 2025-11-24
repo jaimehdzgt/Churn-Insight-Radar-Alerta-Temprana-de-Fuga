@@ -17,6 +17,8 @@ Para atacar este problema se desarrolló una solución de **scoring de churn** b
 - Entrenó un modelo de clasificación que asigna a cada cliente un **puntaje de probabilidad de churn**.
 - Integraron los resultados en un tablero donde negocio puede **segmentar y priorizar clientes por nivel de riesgo**, además de explorar los factores que más influyen en la cancelación.
 
+<img src="assets/Churn_Insight_Slides.gif" alt="Demo del dashboard" width="100%">
+
 **Resultado**  
 Con este enfoque, Saturn Telecom pasa de reaccionar al churn a **anticiparlo**. El área de negocio puede ahora:
 
@@ -27,7 +29,4 @@ Con este enfoque, Saturn Telecom pasa de reaccionar al churn a **anticiparlo**. 
 En resumen, el modelo de churn scoring se convierte en una herramienta práctica para **reducir la pérdida de clientes, optimizar el presupuesto de retención y tomar decisiones más informadas basadas en datos**.
 
 
-
-
-<img src="assets/Churn_Insight_Slides.gif" alt="Demo del dashboard" width="100%">
 
