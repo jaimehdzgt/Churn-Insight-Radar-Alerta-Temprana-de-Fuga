@@ -1,7 +1,7 @@
-# Churn-Insight-Radar-Alerta-Temprana-de-Fuga - Resume el riesgo de churn y prioriza acciones comerciales.
+# Churn-Insight-Radar-Alerta-Temprana-de-Fuga - 
 
 
-## 🎯 Problema de negocio y solución – Saturn Telecom
+## 🎯 Resume el riesgo de churn y prioriza acciones comerciales.
 
 **Problema de negocio**  
 Saturn Telecom observaba mes a mes una pérdida constante de clientes en sus servicios de telefonía, pero solo veía el churn como un porcentaje global al cierre del periodo. 
