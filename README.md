@@ -1,5 +1,4 @@
-# Churn-Insight-Radar-Alerta-Temprana-de-Fuga
-Resume el riesgo de churn y prioriza acciones comerciales.
+# Churn-Insight-Radar-Alerta-Temprana-de-Fuga - Resume el riesgo de churn y prioriza acciones comerciales.
 
 
 ## 🎯 Problema de negocio y solución – Saturn Telecom
